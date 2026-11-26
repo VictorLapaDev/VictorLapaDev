@@ -6,7 +6,7 @@
 
 # Victor Lapa de Vasconcelos
 
-Graduando em **Inteligência e Análise de Dados** (Bacharelado e Tecnólogo) pelo SENAI Suíço-Brasileira e Técnico em Desenvolvimento de Sistemas. Atualmente atuo na área de **Infraestrutura e Suporte de TI** no Exército Brasileiro, combinando base sólida em redes, servidores e desenvolvimento de software para construir pipelines de dados, análises exploratórias e soluções orientadas a negócios.
+Graduando em **Inteligência e Análise de Dados** (Tecnólogo) pelo SENAI Suíço-Brasileira e Técnico em Desenvolvimento de Sistemas. Atualmente atuo na área de **Infraestrutura e Suporte de TI** no Exército Brasileiro, combinando base sólida em redes, servidores e desenvolvimento de software para construir pipelines de dados, análises exploratórias e soluções orientadas a negócios.
 
 Busco oportunidades de estágio e atuação em **Ciência de Dados, Análise de Dados e Engenharia de Dados**.
 
